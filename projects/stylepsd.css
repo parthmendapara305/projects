@@ -1,0 +1,1497 @@
+/*********** Main1 **********/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main {
+    height: 110vh;
+    width: 100%;
+    background-color: #f1e8e3;
+
+}
+
+.main1 {
+    height: 110vh;
+    width: 100%;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.07.10\ AM.jpeg);
+    background-size: cover;
+    background-position: bottom;
+    margin-right: 50px;
+
+}
+
+.main01 {
+    height: 74vh;
+    width: 60%;
+    position: absolute;
+    background-image: url(img1/Image.png);
+    background-size: cover;
+    left: 140px;
+    z-index: 1;
+
+}
+
+.m1 {
+    width: 1183px;
+    height: 260px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    background-color: #3a3a3a;
+    margin-left: 160px;
+}
+
+.deli {
+    font-size: 72px;
+    letter-spacing: 0px;
+    line-height: 95px;
+    color: #b68e76;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+    text-align: center;
+    margin-top: 30px;
+}
+
+.m01 {
+    height: 40px;
+    width: 1100px;
+
+    margin-top: 100px;
+    margin-left: 40px;
+    word-spacing: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home {
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 19px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.m001 {
+    height: 40px;
+    width: 100px;
+
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.quality {
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 19px;
+    color: #ffffff;
+    font-weight: 800;
+    font-family: "Barlow";
+
+}
+
+.m2 {
+    height: 60vh;
+    width: 30%;
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+
+.how {
+    height: 20vh;
+    width: 100%;
+    font-size: 37px;
+    letter-spacing: 0px;
+    line-height: 49px;
+    color: #000000;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    margin-top: 60px;
+}
+
+.have {
+    height: 20vh;
+    width: 100%;
+    font-size: 34px;
+    letter-spacing: 0px;
+    line-height: 41px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+}
+
+.pastry {
+    height: 20vh;
+    width: 100%;
+    width: 279px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #b68e76;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#course {
+    width: 281px;
+    height: 49px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-align: center;
+    text-decoration: none;
+}
+
+/********* Main2 **************/
+
+.main2 {
+    height: 120vh;
+    width: 100%;
+    background-color: #f1e8e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main02 {
+    width: 992px;
+    height: 710px;
+    background-color: #ffffff;
+    border-radius: 110px;
+    display: flex;
+
+}
+
+.main002 {
+    height: 710px;
+    width: 50%;
+    background-color: #ffffff;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+    flex-direction: column;
+
+}
+
+.m21 {
+    height: 90px;
+    width: 100%;
+    background-color: #ffffff;
+    border-top-left-radius: 110px;
+
+
+}
+
+h1 {
+    font-size: 39px;
+    letter-spacing: 0px;
+    line-height: 47px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.m22 {
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0px;
+    line-height: 42px;
+    color: #000000;
+    font-weight: 250px;
+    font-family: "Roboto Slab";
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+.m23 {
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    width: 660px;
+    height: 146px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 19px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    padding-top: 25px;
+    padding-left: 50px;
+}
+
+.m24 {
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    font-size: 27px;
+    letter-spacing: 0px;
+    line-height: 33px;
+    color: #b68e76;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-left: 50px;
+}
+
+.m25 {
+    height: 100px;
+    width: 100%;
+    background-color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 18px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-left: 70px;
+}
+
+.m26 {
+
+    background-color: rgb(15, 23, 30);
+    width: 147px;
+    height: 36px;
+    border-radius: 16px;
+    background-color: #b68e76;
+    margin-left: 50px;
+}
+
+#buy {
+    width: 758px;
+    height: 75px;
+    font-size: 19px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    color: #fefefc;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-left: 40px;
+    text-decoration: none;
+}
+
+.m27 {
+    height: 140px;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom-left-radius: 110px;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 14px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    padding-left: 50px;
+    padding-top: 60px;
+}
+
+.main0002 {
+    height: 710px;
+    width: 50%;
+    border-top-right-radius: 110px;
+    border-bottom-right-radius: 110px;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.08.23\ AM.jpeg);
+    background-size: cover;
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+
+/************* Main3 ***********/
+
+.main3 {
+    height: 140vh;
+    width: 100%;
+    background-color: #f1e8e3;
+
+}
+
+.main03 {
+    height: 135vh;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.08.38\ AM.jpeg);
+    background-size: cover;
+    position: relative;
+    display: flex;
+}
+
+.main0003 {
+    height: 600px;
+    width: 30%;
+    margin-left: 800px;
+    margin-top: 300px;
+
+}
+
+.m31 {
+    height: 70px;
+    width: 100%;
+    font-size: 39px;
+    letter-spacing: 0px;
+    line-height: 48px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-top: 20px;
+}
+
+.m32 {
+    height: 100px;
+    width: 100%;
+    font-size: 32px;
+    letter-spacing: 0px;
+    line-height: 42px;
+    color: #000000;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-top: 10px;
+}
+
+.m33 {
+    height: 200px;
+    width: 100%;
+
+}
+
+#name {
+    width: 340px;
+    height: 45px;
+    border-radius: 23px;
+    margin-top: 60px;
+    margin-left: 70px;
+    font-size: 15px;
+    padding-left: 15px;
+    letter-spacing: 0px;
+    line-height: 31px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    border: none;
+}
+
+#email {
+    width: 340px;
+    height: 45px;
+    border-radius: 23px;
+    margin-top: 20px;
+    margin-left: 70px;
+    padding-left: 15px;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 31px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    border: none;
+}
+
+
+.m34 {
+    height: 50px;
+    width: 100%;
+    width: 340px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #b68e76;
+    text-align: center;
+    margin-left: 70px;
+}
+
+#search {
+    width: 327px;
+    height: 49px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+}
+
+.m35 {
+    height: 180px;
+    width: 100%;
+
+    height: 71px;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 14px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+
+.main003 {
+    height: 82vh;
+    width: 52%;
+    background-image: url(img1/Layer\ 17\ \(1\).png);
+    background-size: cover;
+    position: absolute;
+
+    left: 110px;
+    top: 359px;
+}
+
+/************* Main 4 ***********/
+
+.main4 {
+    height: 120vh;
+    width: 100%;
+    background-color: #f1e8e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main04 {
+    width: 987px;
+    height: 564px;
+    border-radius: 110px;
+    background-color: #3a3a3a;
+    display: flex;
+}
+
+.main004 {
+    width: 45%;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.09.18\ AM.jpeg);
+
+    background-size: cover;
+}
+
+.main0004 {
+    width: 55%;
+    border-top-right-radius: 110px;
+    border-bottom-right-radius: 110px;
+    background-color: rgb(11, 39, 40);
+}
+
+.m41 {
+    height: 100px;
+    width: 100%;
+    border-top-right-radius: 110px;
+    font-size: 66px;
+    letter-spacing: 0px;
+    line-height: 87px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-top: 20px;
+}
+
+.m42 {
+    height: 90px;
+    width: 100%;
+    font-size: 35px;
+    letter-spacing: 0px;
+    line-height: 41px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-left: 110px;
+    padding-top: 10px;
+}
+
+.m43 {
+    height: 40px;
+    width: 100%;
+
+    font-size: 21px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-bottom: 6px;
+    padding-left: 110px;
+}
+
+.m44 {
+    height: 25px;
+    width: 100%;
+
+    font-size: 10px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-left: 110px;
+}
+
+.m45 {
+    height: 40px;
+    width: 100%;
+
+    font-size: 21px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-bottom: 6px;
+    padding-left: 110px;
+}
+
+.m46 {
+    height: 25px;
+    width: 100%;
+
+    font-size: 10px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-left: 110px;
+}
+
+.m47 {
+    height: 40px;
+    width: 100%;
+
+    font-size: 21px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-bottom: 6px;
+    padding-left: 110px;
+}
+
+.m48 {
+    height: 25px;
+    width: 100%;
+
+    font-size: 10px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-left: 110px;
+}
+
+.m49 {
+    height: 40px;
+    width: 100%;
+
+    font-size: 21px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-bottom: 6px;
+    padding-left: 110px;
+}
+
+.m410 {
+    height: 25px;
+    width: 100%;
+
+    font-size: 10px;
+    letter-spacing: 0px;
+
+    color: #ffffff;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-left: 110px;
+}
+
+.m411 {
+    height: 100px;
+    width: 100%;
+    border-bottom-right-radius: 110px;
+    background-color: #b68e76;
+    font-size: 28px;
+    letter-spacing: 0px;
+    line-height: 31px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 40px;
+
+}
+
+.m412 {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+/************ Main5 ************/
+
+.main5 {
+    height: 120vh;
+    width: 100%;
+    background-color: #f1e8e3;
+}
+
+.main05 {
+    height: 120vh;
+    width: 100%;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.09.34\ AM.jpeg);
+    background-size: cover;
+    display: flex;
+
+}
+
+.main005 {
+    height: 600px;
+    width: 600px;
+    margin-left: 300px;
+    margin-top: 150px;
+}
+
+.m51 {
+    height: 180px;
+    width: 100%;
+    font-size: 76px;
+    letter-spacing: 0px;
+    line-height: 92px;
+    color: #000000;
+    font-weight: lighter;
+    font-family: "Roboto Slab";
+}
+
+.m52 {
+    height: 130px;
+    width: 100%;
+    font-size: 39px;
+    letter-spacing: 0px;
+    line-height: 47px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-top: 5px;
+}
+
+.m53 {
+    height: 100px;
+    width: 100%;
+    font-size: 26px;
+    letter-spacing: 0px;
+    line-height: 34px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+
+}
+
+.m54 {
+    height: 60px;
+    width: 100%;
+    width: 229px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #b68e76;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#find {
+    width: 292px;
+    height: 141px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+}
+
+.m55 {
+    height: 60px;
+    width: 100%;
+
+    width: 229px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #b68e76;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#order {
+    width: 292px;
+    height: 141px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-align: center;
+    text-decoration: none;
+}
+
+/************ Main6 **************/
+
+.main6 {
+    height: 120vh;
+    width: 100%;
+    background-color: #f1e8e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main06 {
+    width: 992px;
+    height: 710px;
+    border-radius: 110px;
+    background-color: #ffffff;
+    display: flex;
+
+}
+
+.main006 {
+    height: 710px;
+    width: 55%;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+}
+
+.m61 {
+    height: 180px;
+    width: 100%;
+    border-top-left-radius: 110px;
+    font-size: 40px;
+    letter-spacing: 0px;
+    line-height: 47px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    padding-left: 60px;
+    padding-top: 70px;
+}
+
+.m62 {
+    height: 100px;
+    width: 100%;
+    font-size: 32px;
+    letter-spacing: 0px;
+    line-height: 42px;
+    color: #000000;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-left: 60px;
+}
+
+.m63 {
+    height: 120px;
+    width: 100%;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 19px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    padding-left: 60px;
+    padding-top: 20px;
+
+}
+
+.m64 {
+    height: 120px;
+    width: 100%;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 19px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+.m65 {
+    height: 70px;
+    width: 100%;
+    width: 300px;
+    height: 41px;
+    border-radius: 17px;
+    background-color: #b68e76;
+    text-align: center;
+    margin-left: 60px;
+
+}
+
+#read {
+    width: 543px;
+    height: 75px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 29px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+}
+
+.m66 {
+    height: 120px;
+    width: 100%;
+    border-bottom-left-radius: 110px;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 14px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-left: 60px;
+}
+
+.main0006 {
+    height: 710px;
+    width: 45%;
+    border-top-right-radius: 110px;
+    border-bottom-right-radius: 110px;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.09.52\ AM.jpeg);
+
+}
+
+/*********** Main7 ***********/
+
+.main7 {
+    height: 120vh;
+    width: 100%;
+    background-color: #f1e8e3;
+    display: flex;
+    align-items: center;
+
+}
+
+.main07 {
+    width: 900px;
+    height: 546px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: #ffffff;
+    display: flex;
+}
+
+.main007 {
+    height: 546px;
+    width: 55%;
+    background-color: #ffffff;
+
+}
+
+.m71 {
+    height: 170px;
+    width: 100%;
+    font-size: 38px;
+    letter-spacing: 0px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-top: 30px;
+}
+
+.m72 {
+    height: 100px;
+    width: 100%;
+    font-size: 25px;
+    letter-spacing: 0px;
+    line-height: 33px;
+    color: #000000;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.m73 {
+    height: 90px;
+    width: 80%;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 15px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    padding-left: 170px;
+    padding-top: 20px;
+}
+
+.m74 {
+    height: 110px;
+    width: 100%;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 18px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 10px;
+}
+
+.m75 {
+    height: 75px;
+    width: 100%;
+    width: 132px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #b68e76;
+    text-align: center;
+    display: flex;
+    margin-left: 180px;
+}
+
+#now {
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 23px;
+    color: #fefefc;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.num {
+    width: 100px;
+    background-color: #b68e76;
+    border-radius: 20px;
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.num .minus {
+    width: 33.33px;
+    color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+.num .num1 {
+    width: 33.33px;
+    background-color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.num .plus {
+    width: 33.33px;
+    color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.main0007 {
+    height: 546px;
+    width: 45%;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-image: url(img1/WhatsApp\ Image\ 2024-04-29\ at\ 1.10.06\ AM.jpeg);
+    background-size: cover;
+}
+
+.main00007 {
+    height: 546px;
+    width: 400px;
+    margin-left: 70px;
+}
+
+.m76 {
+    height: 80px;
+    width: 100%;
+    font-size: 52px;
+    letter-spacing: 0px;
+    line-height: 63px;
+    color: #000000;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    padding-top: 15px;
+}
+
+.m77 {
+    height: 60px;
+    width: 100%;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 18px;
+    color: #30302f;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    padding-top: 15px;
+}
+
+.m78 {
+    height: 155px;
+    width: 100%;
+    display: flex;
+}
+
+.m781 {
+    height: 140px;
+    width: 50%;
+    background-image: url(img1/Image\ 2.png);
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.m782 {
+    height: 150px;
+    width: 40%;
+
+}
+
+.add {
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 21px;
+    text-decoration: underline;
+    color: #30302f;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Roboto Slab";
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.num01 {
+    height: 25px;
+    width: 100px;
+    background-color: #b68e76;
+    border-radius: 20px;
+    display: flex;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.num01 .minus1 {
+    height: inherit;
+    width: 33.33px;
+    color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+.num01 .num001 {
+    height: inherit;
+    width: 33.33px;
+    background-color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.num01 .plus01 {
+    height: inherit;
+    width: 33.33px;
+    color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.m79 {
+    height: 155px;
+    width: 100%;
+    display: flex;
+}
+
+.m791 {
+    height: 140px;
+    width: 50%;
+    background-image: url(img1/Image\ \(1\).png);
+    background-size: cover;
+    border-radius: 40px;
+}
+
+.m792 {
+    height: 155px;
+    width: 50%;
+}
+
+.add1 {
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 21px;
+    text-decoration: underline;
+    color: #30302f;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Roboto Slab";
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.num02 {
+    height: 25px;
+    width: 100px;
+    background-color: #b68e76;
+    border-radius: 20px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.num02 .minus2 {
+    height: inherit;
+    width: 33.33px;
+    color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+.num02 .num002 {
+    height: inherit;
+    width: 33.33px;
+    background-color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.num02 .plus02 {
+    height: inherit;
+    width: 33.33px;
+    color: #fefefc;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.m710 {
+    height: 95px;
+    width: 100%;
+    width: 132px;
+    height: 32px;
+    border-radius: 16px;
+    filter: drop-shadow(0px 3px 3.5px rgba(0, 0, 0, 0.35));
+    background-color: #3a3a3a;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+#buy1 {
+    font-size: 17px;
+    letter-spacing: 0px;
+    line-height: 23px;
+    color: #fefefc;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+}
+
+/************* Main8 ************/
+
+.main8 {
+    height: 100vh;
+    width: 100%;
+    background-color: #f1e8e3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main08 {
+    height: 500px;
+    width: 700px;
+    display: flex;
+}
+
+
+.main0008 {
+    height: 500px;
+    width: 700px;
+}
+
+.m81 {
+    height: 180px;
+    width: 100%;
+    font-size: 123px;
+    letter-spacing: 1px;
+    line-height: 162px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+    text-align: center;
+}
+
+.m82 {
+    height: 120px;
+    width: 100%;
+    ;
+    font-size: 38px;
+    letter-spacing: 0px;
+    line-height: 46px;
+    color: #000000;
+    font-weight: 250;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-top: 10px;
+}
+
+.m83 {
+    height: 80px;
+    width: 100%;
+    width: 320px;
+    height: 42px;
+    border-radius: 21px;
+    background-color: #3a3a3a;
+    margin-left: 190px;
+    text-align: center;
+}
+
+#up {
+    width: 234px;
+    height: 49px;
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 30px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+}
+
+.m84 {
+    height: 110px;
+    width: 50%;
+    font-size: 11px;
+    letter-spacing: 0px;
+    line-height: 15px;
+    color: #30302f;
+    font-weight: 400;
+    font-family: "Barlow";
+    text-align: center;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+/*********** Main9 **********/
+.main9 {
+    height: 80vh;
+    width: 100%;
+    background-color: #f1e8e3;
+    display: flex;
+    justify-content: center;
+}
+
+.main09 {
+    height: 580px;
+    width: 1183px;
+    background-color: #3a3a3a;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+}
+
+.m91 {
+    height: 140px;
+    width: 100%;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    font-size: 72px;
+    letter-spacing: 0px;
+    line-height: 95px;
+    color: #b68e76;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+    text-align: center;
+    padding-top: 40px;
+}
+
+.m92 {
+    height: 25px;
+    width: 100%;
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 19px;
+    color: #ffffff;
+    font-weight: bolder;
+    font-family: "Barlow";
+    text-align: center;
+}
+
+.m93 {
+    height: 420px;
+    width: 100%;
+    display: flex;
+}
+
+.m910 {
+    height: 420px;
+    width: 25%;
+}
+
+.m9100 {
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#icons1 {
+    word-spacing: 10px;
+    font-size: 23px;
+    height: 30px;
+    width: 150px;
+
+}
+
+.m9200 {
+    height: 370px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#home001 {
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 42px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+}
+
+.m920 {
+    height: 420px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+#home002 {
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 42px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Roboto Slab";
+}
+
+.m930 {
+    height: 420px;
+    width: 40%;
+}
+
+.m9310 {
+    height: 150px;
+    width: 100%;
+    padding-top: 70px;
+}
+
+#news {
+    font-size: 28px;
+    letter-spacing: 0px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+
+}
+
+.m9320 {
+    height: 80px;
+    width: 100%;
+    padding-top: 30px;
+}
+
+#news1 {
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 27px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    border: none;
+    padding-left: 20px;
+}
+
+.m9330 {
+    height: 80px;
+    width: 100%;
+    padding-top: 30px;
+}
+
+#news2 {
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 27px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    border: none;
+    padding-left: 20px;
+}
+
+.m9340 {
+    height: 110px;
+    width: 100%;
+    width: 302px;
+    height: 35px;
+    border-radius: 17px;
+    background-color: #b68e76;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#news3 {
+    width: 155px;
+    height: 49px;
+    font-size: 19px;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: #fefefc;
+    font-weight: 700;
+    font-family: "Roboto Slab";
+    text-decoration: none;
+}
